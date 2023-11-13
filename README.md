@@ -1,4 +1,4 @@
-# Nutrition-Scores-and-Health-Outcomes
+# Nutrition-Score-Regression-and-Health-Outcomes
 
 
 The main objective of this study is to predict the nutrition score of several food items by utilizing the nutrient makeup provided in the Open Food Facts dataset, followed by testing against the nutrition scores and grades already provided. Since not all food items in the dataset obtain a nutritional score, these can be used as a testing set, while the ones with scores can be used to actually train a model in predicting nutritional scores based off the nutritional makeup of different foods. These nutrition scores will also be compared to health outcomes for the different regions those foods are associated with, which will help in obtaining a better understanding for any correlation between nutrition score and health outcomes, which therefore also ties back and relates to the nutritional makeup of such foods.
